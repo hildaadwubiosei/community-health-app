@@ -1,4 +1,4 @@
-# Healthcare Android Application
+# Community Health App
 
 ## Overview
 This project is a comprehensive healthcare Android application developed using Java and SQLiteDB. The application aims to improve the accessibility and management of healthcare services through a user-friendly interface. It offers a variety of features that cater to the healthcare needs of users.
