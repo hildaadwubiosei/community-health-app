@@ -39,5 +39,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any inquiries or feedback, please reach out to [your email].
+For any inquiries or feedback, please reach out to hildaosei109@gmail.com.
 
